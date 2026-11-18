@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "at": 1794988326,
-  "games": 425129,
-  "through": "2026.10.11",
+  "at": 1794989992,
+  "games": 425549,
+  "through": "2026.11.16",
   "base": {
     "file": "howdah-games-20261118-075206.db.zst",
     "size": 142493412,
@@ -12,5 +12,16 @@
     "games": 425129,
     "at": 1794988326
   },
-  "deltas": []
+  "deltas": [
+    {
+      "file": "howdah-games-20261118-081952-since-20261118-075206.db.zst",
+      "size": 183519,
+      "sha256": "0be7d47a08f6ca933124659d7752ee977aaec07ef48cf8e0987d0531cf0acd31",
+      "unpackedSize": 479232,
+      "schema": 3,
+      "games": 420,
+      "since": 1794988326,
+      "at": 1794989992
+    }
+  ]
 }
