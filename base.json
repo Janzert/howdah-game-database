@@ -1,0 +1,16 @@
+{
+  "format": 1,
+  "at": 1794988326,
+  "games": 425129,
+  "through": "2026.10.11",
+  "base": {
+    "file": "howdah-games-20261118-075206.db.zst",
+    "size": 142493412,
+    "sha256": "931a4948842d711266e813f8bfc93e74c0623c2749e384f17d9cfbb4f5234d22",
+    "unpackedSize": 344686592,
+    "schema": 3,
+    "games": 425129,
+    "at": 1794988326
+  },
+  "deltas": []
+}

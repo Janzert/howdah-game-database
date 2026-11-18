@@ -1,0 +1,8 @@
+# Built by publish.sh and uploaded to the `current` release, not kept here.
+*.db.zst
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+*.new
+.tools/
