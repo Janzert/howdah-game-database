@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "at": 1795247100,
-  "games": 425753,
-  "through": "2026.11.21",
+  "at": 1795333399,
+  "games": 425795,
+  "through": "2026.11.22",
   "base": {
     "file": "howdah-games-20261118-075206.db.zst",
     "size": 142493412,
@@ -14,34 +14,34 @@
   },
   "deltas": [
     {
-      "file": "howdah-games-20261121-074500-since-20261121-050712.db.zst",
-      "size": 25511,
-      "sha256": "3cd36780af5b5a93651c4517164a73e79420631e0d7cf9b62b10afb25e3d86ff",
+      "file": "howdah-games-20261122-074319-since-20261121-074500.db.zst",
+      "size": 26056,
+      "sha256": "ce333c726cb6d14a2b648085dce496fb9efdcafe81cf4ebf1c0b25c6767c3a22",
       "unpackedSize": 118784,
       "schema": 3,
-      "games": 41,
+      "games": 42,
+      "since": 1795247100,
+      "at": 1795333399
+    },
+    {
+      "file": "howdah-games-20261122-074319-since-20261121-050712.db.zst",
+      "size": 43598,
+      "sha256": "ac581e30be4033581b40d4f58c35cb452350aa460a23c9d6756be967b89e7abe",
+      "unpackedSize": 147456,
+      "schema": 3,
+      "games": 83,
       "since": 1795237632,
-      "at": 1795247100
+      "at": 1795333399
     },
     {
-      "file": "howdah-games-20261121-074500-since-20261118-081952.db.zst",
-      "size": 89880,
-      "sha256": "01d4f47e5d4a64524c90cdd3257853dd057b2c57395da3d20396739444d51ff1",
-      "unpackedSize": 258048,
+      "file": "howdah-games-20261122-074319-since-20261118-075206.db.zst",
+      "size": 273360,
+      "sha256": "bf2f2110b1b9189bd7951aa3e9e13e1308f669c5e73311a1843bd04f6cc2517d",
+      "unpackedSize": 696320,
       "schema": 3,
-      "games": 204,
-      "since": 1794989992,
-      "at": 1795247100
-    },
-    {
-      "file": "howdah-games-20261121-074500-since-20261118-075206.db.zst",
-      "size": 258198,
-      "sha256": "c10135ea879548b9a60098ae7a910251b2a303a5a7313062ac7f65cbad2b08c6",
-      "unpackedSize": 659456,
-      "schema": 3,
-      "games": 624,
+      "games": 666,
       "since": 1794988326,
-      "at": 1795247100
+      "at": 1795333399
     }
   ]
 }
