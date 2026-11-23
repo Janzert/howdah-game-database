@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "at": 1795333399,
-  "games": 425795,
+  "at": 1795419811,
+  "games": 425800,
   "through": "2026.11.22",
   "base": {
     "file": "howdah-games-20261118-075206.db.zst",
@@ -14,34 +14,44 @@
   },
   "deltas": [
     {
-      "file": "howdah-games-20261122-074319-since-20261121-074500.db.zst",
-      "size": 26056,
-      "sha256": "ce333c726cb6d14a2b648085dce496fb9efdcafe81cf4ebf1c0b25c6767c3a22",
-      "unpackedSize": 118784,
+      "file": "howdah-games-20261123-074331-since-20261122-074319.db.zst",
+      "size": 8818,
+      "sha256": "a59098afd4d37424fdd2b03f68981abf881ba7c2b84d15709927126e500fb5ef",
+      "unpackedSize": 86016,
       "schema": 3,
-      "games": 42,
+      "games": 5,
+      "since": 1795333399,
+      "at": 1795419811
+    },
+    {
+      "file": "howdah-games-20261123-074331-since-20261121-074500.db.zst",
+      "size": 28667,
+      "sha256": "7e2d67451e9396466015b05c8cc012ff77104564f5f2f042203c9733927287ba",
+      "unpackedSize": 126976,
+      "schema": 3,
+      "games": 47,
       "since": 1795247100,
-      "at": 1795333399
+      "at": 1795419811
     },
     {
-      "file": "howdah-games-20261122-074319-since-20261121-050712.db.zst",
-      "size": 43598,
-      "sha256": "ac581e30be4033581b40d4f58c35cb452350aa460a23c9d6756be967b89e7abe",
-      "unpackedSize": 147456,
+      "file": "howdah-games-20261123-074331-since-20261118-081952.db.zst",
+      "size": 108882,
+      "sha256": "853fa398e17b1d8f6f1e1a6cb67a5e936545ce3749996f7aaaea2ae946711b5f",
+      "unpackedSize": 319488,
       "schema": 3,
-      "games": 83,
-      "since": 1795237632,
-      "at": 1795333399
+      "games": 251,
+      "since": 1794989992,
+      "at": 1795419811
     },
     {
-      "file": "howdah-games-20261122-074319-since-20261118-075206.db.zst",
-      "size": 273360,
-      "sha256": "bf2f2110b1b9189bd7951aa3e9e13e1308f669c5e73311a1843bd04f6cc2517d",
-      "unpackedSize": 696320,
+      "file": "howdah-games-20261123-074331-since-20261118-075206.db.zst",
+      "size": 275582,
+      "sha256": "21ab6a200a7c23ccf30638141828c283dca70fc12b76b2b933e633b917cc43c6",
+      "unpackedSize": 700416,
       "schema": 3,
-      "games": 666,
+      "games": 671,
       "since": 1794988326,
-      "at": 1795333399
+      "at": 1795419811
     }
   ]
 }
