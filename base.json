@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "at": 1795679006,
-  "games": 425846,
-  "through": "2026.11.25",
+  "at": 1795765424,
+  "games": 425850,
+  "through": "2026.11.27",
   "base": {
     "file": "howdah-games-20261118-075206.db.zst",
     "size": 142493412,
@@ -14,44 +14,54 @@
   },
   "deltas": [
     {
-      "file": "howdah-games-20261126-074326-since-20261125-074048.db.zst",
-      "size": 8074,
-      "sha256": "58e800002556bf1d168d6221eb931fd80c2bf793984bc5a81ce493829dfae6ba",
+      "file": "howdah-games-20261127-074344-since-20261126-074326.db.zst",
+      "size": 8320,
+      "sha256": "62051c02f2dd9893c7b365e62b3edc492f0cbe7b9764ea2167e4ad1551939779",
       "unpackedSize": 86016,
       "schema": 3,
-      "games": 3,
-      "since": 1795592448,
-      "at": 1795679006
+      "games": 4,
+      "since": 1795679006,
+      "at": 1795765424
     },
     {
-      "file": "howdah-games-20261126-074326-since-20261124-074046.db.zst",
-      "size": 16770,
-      "sha256": "6fb4e6966382b629d3bf8003f03de7334ed1c44b1edbc335c08a19f60b254e4d",
-      "unpackedSize": 106496,
+      "file": "howdah-games-20261127-074344-since-20261125-074048.db.zst",
+      "size": 10343,
+      "sha256": "c33f79ea7b9659d7af90448bc7f848116fbe42d1d4582ea6034a8d2ee9340083",
+      "unpackedSize": 94208,
       "schema": 3,
-      "games": 17,
-      "since": 1795506046,
-      "at": 1795679006
+      "games": 7,
+      "since": 1795592448,
+      "at": 1795765424
     },
     {
-      "file": "howdah-games-20261126-074326-since-20261122-074319.db.zst",
-      "size": 33687,
-      "sha256": "260432894eb2c8f1cbfc33a344d52cef0a2eec80c87b22527c8ae7795f2da319",
+      "file": "howdah-games-20261127-074344-since-20261123-074331.db.zst",
+      "size": 33546,
+      "sha256": "ca899fb38702ab960c3949611b960a2172528a0e9dcf0ac1b43891bca56904fd",
       "unpackedSize": 131072,
       "schema": 3,
-      "games": 51,
-      "since": 1795333399,
-      "at": 1795679006
+      "games": 50,
+      "since": 1795419811,
+      "at": 1795765424
     },
     {
-      "file": "howdah-games-20261126-074326-since-20261118-075206.db.zst",
-      "size": 296179,
-      "sha256": "cc7c81c727a2d503e57ca2d49cc30e72387fba5f0ba75241deb8b803cd09f885",
-      "unpackedSize": 741376,
+      "file": "howdah-games-20261127-074344-since-20261118-081952.db.zst",
+      "size": 132680,
+      "sha256": "5579bf0c10fb70eda61dd86c2823ecb52f606f44c36c0cd7e64e067181ac82c3",
+      "unpackedSize": 364544,
       "schema": 3,
-      "games": 717,
+      "games": 301,
+      "since": 1794989992,
+      "at": 1795765424
+    },
+    {
+      "file": "howdah-games-20261127-074344-since-20261118-075206.db.zst",
+      "size": 298023,
+      "sha256": "fc449dcf7f5a7c54914943fc5f6df0663aacb256b049fed3812600da24f42bb9",
+      "unpackedSize": 745472,
+      "schema": 3,
+      "games": 721,
       "since": 1794988326,
-      "at": 1795679006
+      "at": 1795765424
     }
   ]
 }
